@@ -1,6 +1,6 @@
 # Pedro Henricky
 
-Me chamo Pedro Henrickyce sou natural do Rio de Janeiro, atualmente estou cursando o 3º ano do ensino médio técnico no colégio SEICE. Sou apaixonado por tecnologia e programação, sempre buscando aprender e me aprimorar na área e desenvolvendo projetos que possam impactar positivamente a vida das pessoas.
+Me chamo Pedro Henricky e sou natural do Rio de Janeiro, atualmente estou cursando o 3º ano do ensino médio técnico no colégio SEICE. Sou apaixonado por tecnologia e programação, sempre buscando aprender e me aprimorar na área e desenvolvendo projetos que possam impactar positivamente a vida das pessoas.
 
 
 ### Linguagens e Tecnologias
